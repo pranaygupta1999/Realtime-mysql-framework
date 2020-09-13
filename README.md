@@ -1,6 +1,9 @@
 # Realtime Mysql Framework
 This is a java framework which provides you to handle the changes in your database at realtime.
 
+## Screenshot
+![Demo](Demo.png "Demo")
+
 ## How it works
 The framework has a server that listens to the changes in the general log file of the mysql and fires the listener associated with the updated.
 
